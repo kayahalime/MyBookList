@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBookList</string>
+    <string name="account">Hesabınız yok mu? <font color='#5b39c6'><u>Kayıt olun.</u></font> </string>
+    <string name="forgot_password"><u>Şifrenizi Unuttunuz mu?</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
